@@ -1,3 +1,11 @@
+/*
+ * Materials provided by Tom Tsiliopoulos
+ *
+ * Updated by: Jacob Kent
+ * Student #: 100609784
+ * Date: Oct 5, 2021
+ */
+
 #include <iomanip>
 #include <iostream>
 
